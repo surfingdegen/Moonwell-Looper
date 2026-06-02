@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bankr Moonwell Looper"
+  short_description: "Loop and unwind WELL on Moonwell via Bankr."
+  default_prompt: "Use $bankr-moonwell-looper to loop my WELL into stkWELL/USDC on Base until USDC is near $100."
